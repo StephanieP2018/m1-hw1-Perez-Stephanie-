@@ -4,7 +4,7 @@
 
 ## About Me
 
-My name is Stephanie Perez and I'm completing a graduate certificate in Web Design and Online Communications. I enjoy desiging graphics and content creation. In my free time I like to paint and be in nature. 
+My name is Stephanie Perez and I'm completing a graduate certificate in Web Design and Online Communications. I enjoy designing graphics and content creation. In my free time I like to paint and be in nature. 
 
 ## Past Coding Experience
 
